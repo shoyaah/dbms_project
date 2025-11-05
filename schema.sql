@@ -1,1 +1,2 @@
 CREATE TABLE students (id INT, name VARCHAR(50));
+ALTER TABLE students ADD COLUMN email VARCHAR(100);
